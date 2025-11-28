@@ -1,0 +1,5 @@
+{
+  "name": "Flewer Serwis Manager",
+  "description": "System zarządzania serwisem elektronarzędzi dla firmy Flewer. Obsługa bazy klientów, zleceń napraw, kosztorysów oraz inteligentne powiadomienia dla klientów.",
+  "requestFramePermissions": []
+}
